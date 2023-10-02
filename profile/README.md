@@ -2,6 +2,10 @@
 
 Which is the Binary Outcast Github Organization that primarily serves BinOC/Central (not to be confused with binoc-central the old xul repo) and BinOC/Labs.
 
+## Resources
+
+Abandoned repos can be found @ https://github.com/binoc-graveyard/
+
 ## Code of Conduct
 
 - Try to be reasonably pleasent and decently nice.
