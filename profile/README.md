@@ -4,7 +4,7 @@ Which is the Binary Outcast Github Organization that primarily serves BinOC/Cent
 
 ## Resources
 
-Abandoned repos can be found @ https://github.com/binoc-graveyard/
+Older repositories can be found @ https://github.com/binoc-graveyard/
 
 ## Code of Conduct
 
