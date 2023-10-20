@@ -1,6 +1,7 @@
 # Welcome to BinOC/Code!
 
-Which is the Binary Outcast Github Organization that primarily serves BinOC/Central (not to be confused with binoc-central the old xul repo) and BinOC/Labs.
+Which is the Binary Outcast Github
+Organization that primarily serves BinOC/Central (not to be confused with binoc-central the old xul repo) and BinOC/Labs.
 
 ## Resources
 
